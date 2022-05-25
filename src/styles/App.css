@@ -76,6 +76,15 @@ header{
   font-size: 16px;
   font-weight: bold;
   color: white;
+  background-image: linear-gradient(
+    to right,
+    #8b5a56 0%,
+    #ff867a 0%,
+    #ff8c7f 21%,
+    #85f9b9 52%,
+    #cf556c 78%,
+    #b12a5b 100%
+  );
 }
 
 .connect-wallet-container {
